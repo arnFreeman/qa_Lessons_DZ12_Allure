@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.SetValueOptions.withText;
 import static org.openqa.selenium.By.linkText;
 
-public class JitHubRepositoryIssueTest {
+public class GitHubRepositoryIssueTest {
 
     @DisplayName("Тест на проверку названия Issue в репозитории через Web-интерфейс")
     @Test
